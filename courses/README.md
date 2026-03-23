@@ -4,7 +4,7 @@ This folder contains notes for multiple courses.
 
 ## Current Courses
 
-1. [DeepLearning.AI - Generative AI for Software Development](/home/maq/Gen-AI-for-Devlopers/courses/deeplearning-ai/generative-ai-for-software-development/README.md)
+1. [DeepLearning.AI - Generative AI for Software Development](./deeplearning-ai/generative-ai-for-software-development/README.md)
 
 ## Recommended Structure for New Courses
 

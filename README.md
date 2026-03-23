@@ -46,8 +46,8 @@ courses/fastai/practical-deep-learning/
 
 ## Quick Links
 
-- [Courses Index](/home/maq/Gen-AI-for-Devlopers/courses/README.md)
-- [DeepLearning.AI: Generative AI for Software Development](/home/maq/Gen-AI-for-Devlopers/courses/deeplearning-ai/generative-ai-for-software-development/README.md)
+- [Courses Index](./courses/README.md)
+- [DeepLearning.AI: Generative AI for Software Development](./courses/deeplearning-ai/generative-ai-for-software-development/README.md)
 
 ## How I Plan to Use This Repo
 
